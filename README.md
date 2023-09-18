@@ -3,7 +3,7 @@
 
 #### I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for biological data analysis. I’m currently working towards my Ph.D. dissertation and am open to job opportunities starting in May 2024 and ahead. 
 
-My research for building Interpretable latent variable methods has involved several techniques. 
+My research on Interpretable latent variable models has involved several techniques. 
 
 To name a few: ***topic modelling***, ***variational autoencoder***, ***matrix factorization*** and ***Bayesian networks***. Check out the following projects for details.
 
