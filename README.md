@@ -5,8 +5,8 @@
 
 My research has been built around several techniques for building Interpretable latent variable methods. To name a few: topic modelling, variational autoencoder and Bayesian networks. Check out the following projects for details.
 
-- [Unraveling dynamically-encoded latent transcriptomic patterns in pancreatic cancer cells by topic modelling, Zhang et al, Cell Genomics, 2023.](https://doi.org/10.1016/j.xgen.2023.100388).
-- [DeepPLIER: A deep learning approach to pathway-level representation of gene expression data, Zhang et al, MLCSB, ISMB, 2020.](https://www.youtube.com/watch?v=nBlBFG6gFbM).
+- [Unraveling dynamically-encoded latent transcriptomic patterns in pancreatic cancer cells by topic modelling, Zhang et al, Cell Genomics, 2023.](https://doi.org/10.1016/j.xgen.2023.100388)
+- [DeepPLIER: A deep learning approach to pathway-level representation of gene expression data, Zhang et al, MLCSB, ISMB, 2020.](https://www.youtube.com/watch?v=nBlBFG6gFbM)
 - [Scaled Matrix Completion](http://hdl.handle.net/1773/42982).
 
 Prior to my Ph.D. study, I finished my Master's in Biostatistics at the University of Washington, working on matrix completion and cell deconvolution problems. 
