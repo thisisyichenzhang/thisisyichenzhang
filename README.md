@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for biological data analysis. I’m currently working on my Ph.D. dissertation and am open to job opportunities starting in May 2024 and ahead.
+
+Common ingredients that appear in my thesis work are matrix factorization, networks and autoencoder. Prior to my Ph.D. study, I finished my Master's in Biostatistics at the University of Washington, working on matrix completion and cell deconvolution problems. I was a Biostatistician Intern at NanoString Technologies, Inc., and an Associate Researcher Intern at Huawei AI Lab. I have been working as a statistical consultant in both industry and academia.
+
+
 <!--
 **thisisyichenzhang/thisisyichenzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
