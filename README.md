@@ -3,7 +3,7 @@
 
 #### I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for biological data analysis. I’m currently working towards my Ph.D. dissertation and am open to job opportunities starting in May 2024 and ahead. 
 
-My research has explored several techniques for building Interpretable latent variable methods. To name a few: topic modelling, variational autoencoder and Bayesian networks. Check out the following projects for details.
+My research has built around several techniques for building Interpretable latent variable methods. To name a few: topic modelling, variational autoencoder and Bayesian networks. Check out the following projects for details.
 
 - [Unraveling dynamically-encoded latent transcriptomic patterns in pancreatic cancer cells by topic modelling, Zhang et al, Cell Genomics, 2023.](https://doi.org/10.1016/j.xgen.2023.100388)
 - [DeepPLIER: A deep learning approach to pathway-level representation of gene expression data, Zhang et al, MLCSB, ISMB, 2020.](https://www.youtube.com/watch?v=nBlBFG6gFbM)
