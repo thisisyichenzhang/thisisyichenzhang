@@ -1,6 +1,6 @@
-#### I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for biological data :dna:. I’m currently working towards my Ph.D. dissertation and am open to job opportunities starting in May 2024 and ahead. 
+#### I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for High-dimensional biology :dna:. I’m currently working towards my Ph.D. dissertation and am open to job opportunities starting in May 2024 and ahead. 
 
-My research on Interpretable latent variable models has involved several techniques. 
+My research on Interpretable latent variable models (LVM) has involved several techniques. 
 
 To name a few: ***topic modelling***, ***variational autoencoder***, ***matrix factorization*** and ***Bayesian networks***. Check out the following projects for details.
 
@@ -14,7 +14,7 @@ Prior to my Ph.D. study, I finished my ***Master's in Biostatistics*** at the Un
 
 - I was an ***Associate Researcher Intern*** at [Huawei AI Lab](http://dev3.noahlab.com.hk/) working on video recognition. Check out here: [Dynamic Cross-scale Aggregation and Multi-Head Interactions for Temporal Action Localization](https://www.youtube.com/watch?v=YUGILnxpsuw&ab_channel=ActivityNet).
 
-I have been working as a ***Senior Statistical Consultant*** in [Applied Statistics and Data Science Group](https://asda.stat.ubc.ca/).
+- I have been working as a ***Senior Statistical Consultant*** in [Applied Statistics and Data Science Group](https://asda.stat.ubc.ca/).
 
 
 <!--
