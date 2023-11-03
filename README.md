@@ -1,4 +1,4 @@
-#### I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for High-dimensional biology :dna:. I’m currently working towards my Ph.D. dissertation and am open to job opportunities starting in May 2024 and ahead. 
+#### I am a Ph.D. Candidate in Statistics at UBC working on Interpretable latent variable methods for High-dimensional biology :dna:. I’m currently working towards my Ph.D. dissertation and am open to job opportunities starting in 2024. 
 
 My research on Interpretable latent variable models (LVM) has involved several techniques. 
 
